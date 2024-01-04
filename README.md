@@ -42,5 +42,6 @@ Implementation of a generic LibraryItem class for common attributes.
 Specific classes for books, CDs, and DVDs, each with unique characteristics.
 The Library class manages the overall inventory and user interactions.
 Utilization of enums for defining item types.
-Note:
-This project serves as a basic demonstration and was created a while ago. It does not fully showcase my current competencies. I plan to replace it soon with a more advanced project that reflects my current skills and knowledge.
+
+
+Note: This project serves as a basic demonstration and was created a while ago. It does not fully showcase my current competencies. I plan to replace it soon with a more advanced project that reflects my current skills and knowledge.
